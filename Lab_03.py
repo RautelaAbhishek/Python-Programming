@@ -79,6 +79,7 @@ def paths(m, n):
         for i in range(1,x+1):
             total *= i
         return total
+    
     total = m+n-2
     horizontal = m - 1
     vertical = n - 1
