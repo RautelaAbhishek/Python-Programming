@@ -181,4 +181,4 @@ def print_link(s):
 
 import doctest
 if __name__ == "__main__":
-  doctest.testmod(verbose=False)
+  doctest.testmod(verbose=True)
